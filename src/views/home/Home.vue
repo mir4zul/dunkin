@@ -1,0 +1,40 @@
+<script setup>
+// import Hero from "@/views/home/Hero.vue";
+// import BenefitsSection from "@/views/home/BenefitsSection.vue";
+// import MealDealSection from "@/views/home/MealDealSection.vue";
+// import AppSection from "@/views/home/AppSection.vue";
+// import ProductList from "@/views/home/ProductList.vue";
+// import Holiday from "@/views/home/Holiday.vue";
+// import GoogleLocation from "@/views/home/GoogleLocation.vue";
+
+</script>
+
+<template>
+  <div>
+    Hello World
+  </div>
+<!--  &lt;!&ndash;  Hero Section &ndash;&gt;-->
+<!--  <Hero/>-->
+
+<!--  &lt;!&ndash; Benefits Section &ndash;&gt;-->
+<!--  <BenefitsSection />-->
+
+<!--  &lt;!&ndash;  MealDealSection &ndash;&gt;-->
+<!--  <MealDealSection/>-->
+
+<!--  &lt;!&ndash; AppSection &ndash;&gt;-->
+<!--  <AppSection/>-->
+
+<!--  &lt;!&ndash; ProductList &ndash;&gt;-->
+<!--  <ProductList/>-->
+
+<!--  &lt;!&ndash; Holiday &ndash;&gt;-->
+<!--  <Holiday/>-->
+
+<!--  &lt;!&ndash; GoogleLocation &ndash;&gt;-->
+<!--  <GoogleLocation/>-->
+</template>
+
+<style scoped>
+
+</style>
