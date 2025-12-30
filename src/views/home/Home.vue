@@ -5,7 +5,7 @@ import MealDealSection from "@/views/home/MealDealSection.vue";
 import AppSection from "@/views/home/AppSection.vue";
 import ProductList from "@/views/home/ProductList.vue";
 import Holiday from "@/views/home/Holiday.vue";
-// import GoogleLocation from "@/views/home/GoogleLocation.vue";
+import GoogleLocation from "@/views/home/GoogleLocation.vue";
 
 </script>
 
@@ -28,8 +28,8 @@ import Holiday from "@/views/home/Holiday.vue";
   <!-- Holiday -->
   <Holiday/>
 
-<!--  &lt;!&ndash; GoogleLocation &ndash;&gt;-->
-<!--  <GoogleLocation/>-->
+  <!-- GoogleLocation -->
+  <GoogleLocation/>
 </template>
 
 <style scoped>
