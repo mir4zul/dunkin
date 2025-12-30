@@ -3,7 +3,7 @@ import Hero from "@/views/home/Hero.vue";
 import BenefitsSection from "@/views/home/BenefitsSection.vue";
 import MealDealSection from "@/views/home/MealDealSection.vue";
 import AppSection from "@/views/home/AppSection.vue";
-// import ProductList from "@/views/home/ProductList.vue";
+import ProductList from "@/views/home/ProductList.vue";
 // import Holiday from "@/views/home/Holiday.vue";
 // import GoogleLocation from "@/views/home/GoogleLocation.vue";
 
@@ -22,8 +22,8 @@ import AppSection from "@/views/home/AppSection.vue";
   <!-- AppSection -->
   <AppSection/>
 
-<!--  &lt;!&ndash; ProductList &ndash;&gt;-->
-<!--  <ProductList/>-->
+  <!-- ProductList -->
+  <ProductList/>
 
 <!--  &lt;!&ndash; Holiday &ndash;&gt;-->
 <!--  <Holiday/>-->
