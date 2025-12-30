@@ -1,5 +1,5 @@
 <script setup>
-// import Hero from "@/views/home/Hero.vue";
+import Hero from "@/views/home/Hero.vue";
 // import BenefitsSection from "@/views/home/BenefitsSection.vue";
 // import MealDealSection from "@/views/home/MealDealSection.vue";
 // import AppSection from "@/views/home/AppSection.vue";
@@ -10,11 +10,8 @@
 </script>
 
 <template>
-  <div>
-    Hello World
-  </div>
-<!--  &lt;!&ndash;  Hero Section &ndash;&gt;-->
-<!--  <Hero/>-->
+  <!--  Hero Section -->
+  <Hero/>
 
 <!--  &lt;!&ndash; Benefits Section &ndash;&gt;-->
 <!--  <BenefitsSection />-->
